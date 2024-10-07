@@ -20,7 +20,7 @@ python run.py --model_path <モデルフォルダのパス> [--save_path <保存
 ## 動作環境
 - CUDA 12.x
 - 24GB以上のVRAM
-- 必要ライブラリのインポートに関しては[sd-scripts](https://github.com/kohya-ss/sd-scripts)と同様です。こちらを参照してください。
+- 必要ライブラリのインポートに関してはsd-scripts様と同様です。[こちら](https://github.com/kohya-ss/sd-scripts)を参照してください。
 
 ## ライセンス
 Apache-2.0 license
