@@ -3,7 +3,7 @@
 Diffusers等によって学習された分割形式のモデルファイルを、ComfyUIやsd-webuiで使用可能な単一ファイル形式に変換します。
 
 ## 注意
-このスクリプトの大部分は[sd-scripts](https://github.com/kohya-ss/sd-scripts)のコードを使用させていただいております。オリジナルのコードのライセンスと利用条件を尊重してください。
+本スクリプトの大部分は[sd-scripts](https://github.com/kohya-ss/sd-scripts)のコードを使用させていただいております。オリジナルのコードのライセンスと利用条件を尊重してください。
 
 ## 機能
 - Diffusers形式のStable Diffusion XLモデルを読み込みます。
