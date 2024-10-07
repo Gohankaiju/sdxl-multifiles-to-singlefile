@@ -1,7 +1,5 @@
 # SDXL Multi Files to Single File 
 
-このスクリプトは、Diffusers形式のStable Diffusion XLモデルファイルをSingle-File形式のSafeTensorsファイルに変換するものです。
-
 Diffusers等によって学習された分割形式のモデルファイルをComfyUIやsd-webuiで使用可能な単一ファイル形式に変換します。
 
 ## 注意
@@ -15,7 +13,7 @@ Diffusers等によって学習された分割形式のモデルファイルをCo
 ## 使用方法
 
 ```shell
-python script_name.py --model_path <モデルフォルダのパス> [--save_path <保存先パス>]
+python run.py --model_path <モデルフォルダのパス> [--save_path <保存先パス>]
 ```
 保存パスの指定が無い場合、`/outputs`にモデルファイルが保存されます。
 
